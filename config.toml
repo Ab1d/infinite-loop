@@ -1,0 +1,4 @@
+baseurl = "http://abidhussain.me"
+languageCode = "en-us"
+title = "Infiniteloop"
+theme = "base16"
